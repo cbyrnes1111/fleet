@@ -11,6 +11,7 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/loopfz/gadgeto v0.11.2
+	github.com/sethvargo/go-password v0.2.0
 	github.com/wI2L/fizz v0.20.0
 	go.elastic.co/apm/module/apmgin/v2 v2.1.0
 	go.elastic.co/apm/v2 v2.1.0
